@@ -1,0 +1,54 @@
+img {
+    position: inherit;
+    width: 2400px;
+    height: 500px;
+}
+.txt2{
+    text-align:center;
+    padding:20px 25px;
+    text-shadow:0 3px 3px grey;
+    font-weight:bold;
+    font-style:italic;
+    font-size:50px;
+}
+.txt3{
+  text-align:center;
+ margin:2% 10% 2% 10%;
+ font-weight:bold;
+ font-size:18px;
+}
+.tp{
+    margin:3% 10% 3% 10%;
+    
+}
+
+
+
+
+.bts{
+    padding: 20px 22px;
+    border:1px ;
+    border-radius:30px;
+   background-color:pink;
+    opacity:0.7;
+    
+ }
+.frs{
+    padding: 10px 12px;
+}
+ .cards{
+    margin-top:5%;
+      padding: 20px 25px;
+    background-color:black;
+    opacity: 0.8;
+   }
+   .cheader{
+      text-align:center;
+      color:white;
+   }
+ .tpk{
+   column-count: 3;
+ }
+ul,li a{
+    text-decoration: none;
+ }
